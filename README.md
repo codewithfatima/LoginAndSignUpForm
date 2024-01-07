@@ -1,1 +1,3 @@
-# LoginAndSignUpForm
+******************* LoginAndSignUpForm***************************
+
+This is basic project of javascript LoginAndSignUpForm...
